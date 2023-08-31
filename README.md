@@ -18,4 +18,4 @@ Audit report audited by Salus and authorized for publication.
 - Known attacks
 - GAS usage and restrictions
 
-[More about our audit scope](https://docs.google.com/document/d/1ZkXk2PdHXjVhkffMljSE9HlgqZbEDfE2TwzOsDBaHL0/edit?usp=sharing)
+[More about our audit scope](https://docs.salusec.io/untitled/audit/auditing-scope-solidity)
