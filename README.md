@@ -1,7 +1,16 @@
 # Salus-audit
-Audit report audited by Salus and authorized for publication.
+Salus tackles the most complex security challenges through fundamental scientific research and pushing the boundaries of Web3 security.
 
-## Our Audit Scope
+
+## Speech
+
+## Research Paper
+
+## CTF
+
+## Public Work
+
+## Audit Scope & Risk Assessment Criteria
 
 - Tokens
 - Decentralized finance
